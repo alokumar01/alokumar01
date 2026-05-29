@@ -13,8 +13,8 @@
   <a href="https://github.com/alokumar01?tab=followers">  
     <img src="https://img.shields.io/github/followers/alokumar01?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />  
   </a>  
-  <a href="https://whoisalok.tech">  
-    <img src="https://img.shields.io/badge/Portfolio-whoisalok.tech-brightgreen?style=flat-square" alt="Portfolio" />  
+  <a href="https://aalokkumar.dev">  
+    <img src="https://img.shields.io/badge/Portfolio-aalokkumar.dev-brightgreen?style=flat-square" alt="Portfolio" />  
   </a>  
 </p>  
 
@@ -24,11 +24,8 @@
 
 - 🎓 3rd Year B.Tech Computer Science Student  
 - 💻 MERN + Next.js Learner (Frontend + Backend)  
-- 🌱 Exploring **Backend Systems, Auth, Cloud Deployment**  
+- 🌱 Building **Backend Systems, Auth, Cloud Deployment**  
 - 🛠️ Love building projects that solve real-world problems  
-- 📌 Actively looking for **Software Development Internships**  
-
-> ⚡ Fun Fact: _"All is well..."_ – It's not just a line, it's a mindset 💯  
 
 ---
 
@@ -48,7 +45,7 @@
 
 **Frontend:**  
 <p>  
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs" />  
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs" />  
 </p>  
 
 **Backend & Database:**  
@@ -58,7 +55,7 @@
 
 **Other Tools & Languages:**  
 <p>  
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,flutter,vscode" />  
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,nginx,aws,docker,jenkins,kubernetes" />  
 </p>  
 
 ---
@@ -79,5 +76,5 @@
 ## ✨ Quote I Believe In  
 
 <p align="center">  
-  <em>“Good code is its own best documentation.” – Steve McConnell</em>  
+  <em>“Good code is its own best documentation.”</em>  
 </p>  
